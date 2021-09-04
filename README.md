@@ -1,0 +1,2 @@
+# computer_graphics_practice_achevery
+这个项目包含了我学习闫令琪老师的计算机图形学的笔记和实践。
